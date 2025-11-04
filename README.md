@@ -43,8 +43,8 @@ Follow these steps to run the application directly from the source code.
 Clone the repository and set the correct local Python version using `pyenv`.
 
 ```bash
-git clone <your-repository-url>
-cd timeclicker
+git clone https://github.com/mkhuda/timeclicker-pro.git
+cd timeclicker-pro
 
 # Install the target Python version if you don't have it
 pyenv install 3.12.12
